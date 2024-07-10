@@ -52,7 +52,7 @@ export default function HomePage() {
           let error = document.querySelector(".error");
           error.classList.add("hidden");
         }}
-        className="absolute top-0 error hidden w-full z-50 h-screen flex items-center justify-center"
+        className="fixed left-0 top-0 error hidden w-full z-50 h-screen flex items-center justify-center"
       >
         <div className="w-full h-full absolute bg-black opacity-55"></div>
         <h1 className="text-2xl z-40 bg-red-700 px-4 py-2 text-white">
