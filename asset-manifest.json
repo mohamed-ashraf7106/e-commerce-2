@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/e-commerce-2/static/css/main.48181d44.css",
+    "main.js": "/e-commerce-2/static/js/main.58b33810.js",
+    "static/js/453.68693753.chunk.js": "/e-commerce-2/static/js/453.68693753.chunk.js",
+    "static/media/monitor 1.jpg": "/e-commerce-2/static/media/monitor 1.09e16917e4b69cc12faa.jpg",
+    "static/media/monitor 2.jpg": "/e-commerce-2/static/media/monitor 2.712c5c1820d7846eb8be.jpg",
+    "static/media/monitor 4.jpg": "/e-commerce-2/static/media/monitor 4.e7c6a69ec24b75802396.jpg",
+    "static/media/gaming keyboard 2.jpg": "/e-commerce-2/static/media/gaming keyboard 2.0e6c9e235d3dbfe9a5a8.jpg",
+    "static/media/gaming keyboard 3.jpg": "/e-commerce-2/static/media/gaming keyboard 3.fd8a6c9407299ab1de5b.jpg",
+    "static/media/monitor 3.jpg": "/e-commerce-2/static/media/monitor 3.5a1bacd38013037b1611.jpg",
+    "static/media/watch 2.jpg": "/e-commerce-2/static/media/watch 2.36c09cb59340c7ce2d08.jpg",
+    "static/media/gaming keyboard 1.jpg": "/e-commerce-2/static/media/gaming keyboard 1.4a28a6308be37109d5a8.jpg",
+    "static/media/gaming mouse 4.jpg": "/e-commerce-2/static/media/gaming mouse 4.bd8807b5b3bb41c40853.jpg",
+    "static/media/watch 1.jpg": "/e-commerce-2/static/media/watch 1.f4447887e4d6ccff4c16.jpg",
+    "static/media/watch 4.jpg": "/e-commerce-2/static/media/watch 4.4b769adc8e10ece1361b.jpg",
+    "static/media/shoes 3.jpg": "/e-commerce-2/static/media/shoes 3.7dca8d0effd41b222091.jpg",
+    "static/media/gaming keyboard 4.jpg": "/e-commerce-2/static/media/gaming keyboard 4.07f8d6643c50988068e5.jpg",
+    "static/media/gaming mouse 1.jpg": "/e-commerce-2/static/media/gaming mouse 1.97a9f147947bdd652f03.jpg",
+    "static/media/phone 4.jpg": "/e-commerce-2/static/media/phone 4.451eccc80cead1a17c23.jpg",
+    "static/media/shoes 4.jpg": "/e-commerce-2/static/media/shoes 4.3ab65f002ac3b178b284.jpg",
+    "static/media/gaming headset 2.jpg": "/e-commerce-2/static/media/gaming headset 2.46c220b2adaf8ea7ae5f.jpg",
+    "static/media/office chair 4.jpg": "/e-commerce-2/static/media/office chair 4.1e6f88e57982ef014505.jpg",
+    "index.html": "/e-commerce-2/index.html",
+    "main.48181d44.css.map": "/e-commerce-2/static/css/main.48181d44.css.map",
+    "main.58b33810.js.map": "/e-commerce-2/static/js/main.58b33810.js.map",
+    "453.68693753.chunk.js.map": "/e-commerce-2/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48181d44.css",
+    "static/js/main.58b33810.js"
+  ]
+}
