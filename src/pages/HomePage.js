@@ -27,7 +27,7 @@ export default function HomePage() {
       scrollabler.addEventListener("mousemove", (e) => {
         if (dragging) {
           scrollabler.classList.remove("dragging");
-          scrollabler.scrollLeft -= e.movementX / 2;
+          scrollabler.scrollLeft -= e.movementX;
         }
       });
       scrollabler.addEventListener("mouseup", (e) => {
