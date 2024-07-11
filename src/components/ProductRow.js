@@ -59,7 +59,7 @@ export default function ProductRow({ title, type, best = false }) {
                     </div>
                     <div className="flex items-center justify-center">
                       <input
-                      min={"0"}
+                        min={"0"}
                         id={product.id}
                         onChange={(e) => {
                           e.target.value = Math.floor(e.target.value);
@@ -136,6 +136,7 @@ export default function ProductRow({ title, type, best = false }) {
                   </div>
                   <div className="flex items-center justify-center">
                     <input
+                      min={"0"}
                       id={product.id}
                       onChange={(e) => {
                         e.target.value = Math.floor(e.target.value);
